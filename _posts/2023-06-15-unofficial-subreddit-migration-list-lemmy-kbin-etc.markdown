@@ -52,6 +52,7 @@ Here's a quick and dirty list that you can [contribute to](https://github.com/yo
 | r/China | !china@latte.isnot.coffee | [🔗](https://latte.isnot.coffee/c/china) | Official | [Please see: https://latte.isnot.coffee/c/china for an alternative](https://www.reddit.com/r/china) |
 | r/montreal | !montreal@lemmy.ca | [🔗](https://lemmy.ca/c/montreal) | Official | [Ou essayez Lemmy Montréal : https://lemmy.ca/c/montreal](https://www.reddit.com/r/montreal) |
 | r/StableDiffusion | !stable_diffusion@lemmy.dbzer0.com | [🔗](https://lemmy.dbzer0.com/c/stable_diffusion) | Official | [Please see: Check out our new Lemmy instance: https://lemmy.dbzer0.com/c/stable_diffusion](https://www.reddit.com/r/StableDiffusion) |
+| r/Undertale | !undertale@lemmy.world | [🔗](https://lemmy.world/c/undertale) | Official | [r/Undertale is a private community](https://www.reddit.com/r/Undertale) |
 
 ### 100k+ Subscribers
 
